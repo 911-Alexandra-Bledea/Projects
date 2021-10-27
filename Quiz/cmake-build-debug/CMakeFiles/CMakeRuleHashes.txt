@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+e41916096e34c09788263f8ba1c75d22 CMakeFiles/Quiz_autogen
