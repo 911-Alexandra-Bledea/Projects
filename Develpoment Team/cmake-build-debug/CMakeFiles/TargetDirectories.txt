@@ -1,0 +1,4 @@
+C:/Users/Alexandra/Desktop/Facultate/Semestru 2/EXAMEN OOP/Develpoment Team/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexandra/Desktop/Facultate/Semestru 2/EXAMEN OOP/Develpoment Team/cmake-build-debug/CMakeFiles/Develpoment_Team.dir
+C:/Users/Alexandra/Desktop/Facultate/Semestru 2/EXAMEN OOP/Develpoment Team/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Alexandra/Desktop/Facultate/Semestru 2/EXAMEN OOP/Develpoment Team/cmake-build-debug/CMakeFiles/Develpoment_Team_autogen.dir

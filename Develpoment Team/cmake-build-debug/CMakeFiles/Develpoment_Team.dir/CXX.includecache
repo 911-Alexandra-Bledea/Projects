@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Issue/Issue.h
+vector
+-
+string
+-
+sstream
+-
+
+../Member/Member.h
+vector
+-
+string
+-
+sstream
+-
+
+C:/Users/Alexandra/Desktop/Facultate/Semestru 2/EXAMEN OOP/Develpoment Team/Repository/Repository.cpp
+Repository.h
+C:/Users/Alexandra/Desktop/Facultate/Semestru 2/EXAMEN OOP/Develpoment Team/Repository/Repository.h
+
+C:/Users/Alexandra/Desktop/Facultate/Semestru 2/EXAMEN OOP/Develpoment Team/Repository/Repository.h
+vector
+-
+fstream
+-
+string
+-
+Issue.h
+C:/Users/Alexandra/Desktop/Facultate/Semestru 2/EXAMEN OOP/Develpoment Team/Repository/Issue.h
+Member.h
+C:/Users/Alexandra/Desktop/Facultate/Semestru 2/EXAMEN OOP/Develpoment Team/Repository/Member.h
+
